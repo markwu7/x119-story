@@ -1,0 +1,29 @@
+[33mcommit 3d415e660c108679ce30c86fc62062a6b4dd3e13[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Shreyans Saraogi <shreyans@snares-08.cs.wisc.edu>
+Date:   Thu Mar 12 20:50:01 2020 -0500
+
+    shreyans addition
+
+[33mcommit b9f6c2a11cf8b0fdd677cf534b0f91cf96e1d1de[m
+Author: Kaylee Bittner <bittner@royal-19.cs.wisc.edu>
+Date:   Tue Mar 10 21:20:45 2020 -0500
+
+    third paragraph
+
+[33mcommit 81019ce0145bc66ab3dbf8eac7e00057429188db[m
+Author: Bon Trinh <bon@snares-08.cs.wisc.edu>
+Date:   Thu Feb 27 23:34:35 2020 -0600
+
+    Bon addition
+
+[33mcommit 782b422f7a7d4d5da27b8187a79185955cdc5ace[m
+Author: Mark Wu <wum@snares-08.cs.wisc.edu>
+Date:   Thu Feb 27 22:40:30 2020 -0600
+
+    first paragraph
+
+[33mcommit 342264bd45f243f13bda85de25f0f54ec30c3716[m
+Author: markwu7 <61250866+markwu7@users.noreply.github.com>
+Date:   Wed Feb 26 17:21:17 2020 -0600
+
+    Initial commit
