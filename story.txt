@@ -5,3 +5,27 @@ Once a upon a time, there's a Little Red Riding Hood, whose name is Lucy and she
 The boy also wear a hood and they become friends. Later they find out that there are so many boys and girls wearing hood because it is fashionable at the time, so they found a group called brother and sister HOOD.
 
 Brother and Sister Hood becomes a very popular group in the area. So much so that Lucy and her new friends start a successful fashion line selling hoods not only in red, but in various colors and designs.
+[33mcommit b9f6c2a11cf8b0fdd677cf534b0f91cf96e1d1de[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kaylee Bittner <bittner@royal-19.cs.wisc.edu>
+Date:   Tue Mar 10 21:20:45 2020 -0500
+
+    third paragraph
+
+[33mcommit 81019ce0145bc66ab3dbf8eac7e00057429188db[m
+Author: Bon Trinh <bon@snares-08.cs.wisc.edu>
+Date:   Thu Feb 27 23:34:35 2020 -0600
+
+    Bon addition
+
+[33mcommit 782b422f7a7d4d5da27b8187a79185955cdc5ace[m
+Author: Mark Wu <wum@snares-08.cs.wisc.edu>
+Date:   Thu Feb 27 22:40:30 2020 -0600
+
+    first paragraph
+
+[33mcommit 342264bd45f243f13bda85de25f0f54ec30c3716[m
+Author: markwu7 <61250866+markwu7@users.noreply.github.com>
+Date:   Wed Feb 26 17:21:17 2020 -0600
+
+    Initial commit
+The fashion line became so succesful and they started such a succesful fashion line that they made it to the New York Fashion thing- the best in the world.
